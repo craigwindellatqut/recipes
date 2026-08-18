@@ -1,3 +1,10 @@
 *.png
 pictures/
+!final.png
+!pictures/pie
+pictures/data/local/gps/*.dat
+**/*.csv
+log_*
+!log_01
+
 
