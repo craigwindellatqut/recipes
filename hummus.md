@@ -5,3 +5,4 @@
 * olive oil
 * salt
 ## Instructions
+* Mix everything in a bowl
